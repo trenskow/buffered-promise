@@ -10,7 +10,7 @@ const BufferedPromise = require('buffered-promise');
 
 const promise = new BufferedPromise(new Promise((resolve, reject) => {
 	/* Your promise */
-}))
+}));
 ````
 
 # License
