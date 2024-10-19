@@ -1,9 +1,6 @@
-'use strict';
+import CustomPromise from '@trenskow/custom-promise';
 
-const
-	CustomPromise = require('@trenskow/custom-promise');
-
-exports = module.exports = class BufferedPromise extends CustomPromise {
+export default class BufferedPromise extends CustomPromise {
 
 	constructor(promise) {
 

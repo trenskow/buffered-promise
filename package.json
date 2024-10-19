@@ -3,6 +3,7 @@
   "version": "0.1.22",
   "description": "Simple custom promise for buffering promise results.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -24,6 +25,9 @@
     "@trenskow/custom-promise": "^0.12.0"
   },
   "devDependencies": {
-    "eslint": "^9.12.0"
+    "@eslint/eslintrc": "^3.1.0",
+    "@eslint/js": "^9.13.0",
+    "eslint": "^9.13.0",
+    "globals": "^15.11.0"
   }
 }
