@@ -1,6 +1,6 @@
 {
   "name": "@trenskow/buffered-promise",
-  "version": "0.1.22",
+  "version": "0.2.0",
   "description": "Simple custom promise for buffering promise results.",
   "main": "index.js",
   "type": "module",
