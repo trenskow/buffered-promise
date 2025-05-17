@@ -22,7 +22,7 @@
 	},
 	"homepage": "https://github.com/trenskow/buffered-promise#readme",
 	"dependencies": {
-		"@trenskow/custom-promise": "^0.13.8"
+		"@trenskow/custom-promise": "^0.13.9"
 	},
 	"devDependencies": {
 		"@eslint/eslintrc": "^3.3.1",
